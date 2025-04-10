@@ -1,7 +1,7 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, focada em desenvolvimento backend com **Java**, **Spring Boot** e **Banco de Dados**.
-Sempre buscando aprender, evoluir e transformar código em soluções reais. 🚀
+Sempre buscando aprender, evoluir e colocar em pratica o Java!
 
 ---
 
